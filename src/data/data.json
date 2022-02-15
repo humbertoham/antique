@@ -7,18 +7,9 @@
     "paragraph": " Antique Salon & Spa."
   },
   "About": {
-    "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "paragraph": "Antique Spa Salon. Desde 2013 somos uno de los Pioneros en el Arte del Lashismo. Con tecnicas varias en aplicacion de extenciones pestañas. Clasicas 1x1, Hibridas, Volumen y Mega Volumen. Caracterizandonos por dar un servicio de primera calidad en una atmosfera coordial.",
     "Why": [
-      "Lorem ipsum dolor",
-      "Tempor incididunt",
-      "Lorem ipsum dolor",
-      "Incididunt ut labore"
-    ],
-    "Why2": [
-      "Aliquip ex ea commodo",
-      "Lorem ipsum dolor",
-      "Exercitation ullamco",
-      "Lorem ipsum dolor"
+      "Nuestra experiencia data de casi una decada perfeccionando técnicas para dar un servicio de calidad sin efectos adversos por lo tanto garantizamos satisfaccion, confianza a todos nuestros clientes."
     ]
   },
   "Gallery": [
@@ -62,33 +53,29 @@
   "Services": [
     {
       "icon": "fa fa-female",
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "name": "Extenciones de Pestañas.",
+      "text": "Clasicas. 1x1. Hibridas. Volumen y Mega volumen."
     },
     {
       "icon": "fa fa-certificate",
-      "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "name": "Servicios manos y pies.",
+      "text": "Pedicure, manicure, uñas acrilicas y una gama amplia en colores de shellac."
     },
     {
       "icon": "fa fa-star",
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "name": "Pedicure con microdermoabrador",
+      "text": "Una técnica indolora que retira toda celula muerta de nuestros pies. Mientras que el hidromasaje nos da un efecto relajador."
     },
     {
       "icon": "fa fa-heart",
-      "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "name": "Limpiezas Faciales.",
+      "text": "Control de acne. Microdermoabracion. Dermaplaning."
     },
-    {
-      "icon": "fa fa-smile-o",
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
-    },
+    
     {
       "icon": "fa fa-tint",
-      "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "name": "Para la cara",
+      "text": "Rizado de pestañas, laminado de cejas y mascarillas para todo tipo de piel."
     }
   ],
   "Testimonials": [
