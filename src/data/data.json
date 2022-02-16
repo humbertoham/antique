@@ -52,28 +52,28 @@
   ],
   "Services": [
     {
-      "icon": "fa fa-female",
+      "icon": "img/image3.jpg",
       "name": "Extenciones de Pestañas.",
       "text": "Clasicas. 1x1. Hibridas. Volumen y Mega volumen."
     },
     {
-      "icon": "fa fa-certificate",
+      "icon": "img/image1.jpg",
       "name": "Servicios manos y pies.",
       "text": "Pedicure, manicure, uñas acrilicas y una gama amplia en colores de shellac."
     },
     {
-      "icon": "fa fa-star",
+      "icon": "img/image2.jpg",
       "name": "Pedicure con microdermoabrador",
       "text": "Una técnica indolora que retira toda celula muerta de nuestros pies. Mientras que el hidromasaje nos da un efecto relajador."
     },
     {
-      "icon": "fa fa-heart",
+      "icon": "img/image4.jpg",
       "name": "Limpiezas Faciales.",
       "text": "Control de acne. Microdermoabracion. Dermaplaning."
     },
     
     {
-      "icon": "fa fa-tint",
+      "icon": "img/image5.jpg",
       "name": "Para la cara",
       "text": "Rizado de pestañas, laminado de cejas y mascarillas para todo tipo de piel."
     }
@@ -81,33 +81,18 @@
   "Testimonials": [
     {
       "img": "img/testimonials/01.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "lorem"
+      "text": "\"Si está buscando un estilista en quien confiar para un cambio de imagen, ¡este es el lugar! Khelly tiene un talento especial para crear cortes de cabello increíbles y únicos. Se toma su tiempo en cada corte, asegurándose de que todo sea perfecto. La atención al detalle tanto Jesse en el color como Khelly en los cortes de cabello está más allá. ¡Definitivamente encontré mi salón favorito en Reynosa!\"",
+      "name": "ISA ZAPATA"
     },
     {
       "img": "img/testimonials/02.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "lorem"
+      "text": "\"Recientemente fui a Antique Salon & Spa por primera vez y fueron maravillosos. Estaban extremadamente limpios, usaban máscaras y regalaron desinfectante para manos. Khelly fue de gran ayuda para encontrar mi mejor look y asegurarse de que estuviera satisfecho con mi imagen\"",
+      "name": "ALEX KERBEL"
     },
     {
       "img": "img/testimonials/03.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "lorem"
-    },
-    {
-      "img": "img/testimonials/04.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "lorem"
-    },
-    {
-      "img": "img/testimonials/05.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "lorem"
-    },
-    {
-      "img": "img/testimonials/06.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "lorem"
+      "text": "\"Khelly Salazar ha creado el salón perfecto. No solo su salón o estilistas promedio, son vanguardistas, precisos, con estilo e innovando continuamente. Amable, divertido, profesional y en general una gran experiencia. ¡No puedo recomendarlos lo suficiente!\"",
+      "name": "ANTHONY LAZZARO"
     }
   ],
   "Team": [
